@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @warmlund
-       - I'm a landscape architect and BIM manager who's trying to become a software developer.
+       - I'm a landscape architect and BIM manager who likes data analytics and software development
   
 - 👀 I’m interested in:
         - Software development in the AEC industry
